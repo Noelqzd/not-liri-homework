@@ -4,7 +4,7 @@ let axios = require("axios");
 let fs = require("fs");
 let Spotify = require('node-spotify-api');
 let spotify = new Spotify(keys.spotify);
-// const moment = require("moment")
+const moment = require("moment")
 
 let searchTerm = process.argv[2];
 
@@ -16,9 +16,8 @@ switch(searchTerm) {
         console.log("Venue Name: " + response.data[0].venue.name);
         console.log("City: " + response.data[0].venue.city);
         console.log("Time: " + response.data[0].datetime);
-        
-        
-        //console.log("Time: " + moment(response.data[0].datetime).format("MM/DD/YYYY"));
+        console.log("Time: " + moment(response.data[0].datetime).format("MM/DD/YYYY"));
+
         if (err) {
             console.log("Error: " + err)
         }
