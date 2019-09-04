@@ -31,7 +31,7 @@ Step by Step instructions
  
 Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![screenshots](concert.png)  
+![screenshots](screenshots/concert.png)  
 
 
 
@@ -47,7 +47,7 @@ Output: The system will display a list of information associated with the song. 
 
 
 
-![screenshots](song.png)
+![screenshots](screenshots/song.png)
 
 
 
@@ -62,7 +62,7 @@ Output: The system will display information associated with the movie. The syste
 
 
 
-![screenshots](movies.png)
+![screenshots](screenshots/movies.png)
 
 
 
