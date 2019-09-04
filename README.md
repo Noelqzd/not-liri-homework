@@ -6,13 +6,13 @@ Created on: September 1st 2019
 ABOUT THE APP
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. The user has the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
 
--concert-this
+concert-this
 
--spotify-this-song
+spotify-this-song
 
--movie-this
+movie-this
 
--do-what-it-says
+do-what-it-says
 
 HOW TO USE LIRI
 
