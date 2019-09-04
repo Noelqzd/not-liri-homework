@@ -29,7 +29,7 @@ Example 1: Run the concert-this command
  node liri.js concert-this <name of artist or band>
 Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-Results
+![picture](screenshots/concert.png)  
 
 Example 2: Run the spotify-this-song command
 
