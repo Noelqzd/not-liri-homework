@@ -12,7 +12,6 @@ spotify-this-song
 
 movie-this
 
-do-what-it-says
 
 HOW TO USE LIRI
 
